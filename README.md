@@ -104,3 +104,6 @@ This is a RESTful API for managing FAQs, built using Node.js, Express, MongoDB, 
     ```bash
     curl -X DELETE http://localhost:8080/api/faqs/[faq-id]
     ```
+
+# Note
+  Not able to integrate any rich text editor as there was a issue to make frontend in ejs but all other functionalities are present. 
